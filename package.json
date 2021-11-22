@@ -1,0 +1,27 @@
+{
+  "name": "specificmovieratings",
+  "version": "1.0.0",
+  "description": "Full Stack Web Application for rating movies by the 8 elements of film: Plot. Structure. Characterization. Scenes. Visuals. Dialogue. Conflict. Resolution.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniBoie/SpecificMovieRatings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniBoie/SpecificMovieRatings/issues"
+  },
+  "homepage": "https://github.com/DaniBoie/SpecificMovieRatings#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15"
+  }
+}
